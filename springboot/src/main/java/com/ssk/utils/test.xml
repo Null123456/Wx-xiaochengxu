@@ -1,0 +1,50 @@
+<xml>
+    <ToUserName><![CDATA[gh_dc728a9508ba]]></ToUserName>//开发者微信号
+    <FromUserName><![CDATA[oETLowx5kkz9YCUT7UQJKHt5kIOM]]></FromUserName>//发送方账号Openid
+    <CreateTime>1581669466</CreateTime>//消息创建时间
+    <MsgType><![CDATA[text]]></MsgType>text
+    <Content><![CDATA[1]]></Content>//文本消息内容
+    <MsgId>22644062067083391</MsgId>//消息id
+</xml>
+
+       <!-- {
+        Content=你好,
+        CreateTime=1581672175,
+        ToUserName=gh_dc728a9508ba,
+        FromUserName=oETLowx5kkz9YCUT7UQJKHt5kIOM,
+        MsgType=text,
+        MsgId=22644102117879073
+        }-->
+
+
+
+
+        <!--{
+        "touser":"oETLowx5kkz9YCUT7UQJKHt5kIOM",
+        "template_id":"bbew9DGFPEJ4FQ1nx1M3kbpBwghsESkkJIyxOxS-nUk",
+        "url":"http://weixin.qq.com",
+        "data":{
+        "first": {
+        "value":"您好!您投递的简历有新的反馈！",
+        "color":"#173177"
+        },
+        "time":{
+        "value":"2019/2/17 15:09:25",
+        "color":"#173177"
+        },
+        "company": {
+        "value":"阿里巴巴",
+        "color":"#173177"
+        },
+        "result": {
+        "value":"面试通过",
+        "color":"#173177"
+        },
+        "remark":{
+        "value":"请联系本公司HR！",
+        "color":"#173177"
+        }
+        }
+        }-->
+
+
